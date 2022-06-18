@@ -1,5 +1,5 @@
 # Script Bat
-### 📓 This script was created to simplify daily life in operating a computer
+### 📓 Information
 This script was created to simplify daily life in operating a computer
 
 ### ✏️ Note
