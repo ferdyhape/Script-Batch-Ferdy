@@ -2,16 +2,23 @@
 cls
 color 0B
 Title Ferdy Script - Clone Repositories From Github
+echo.
 echo -- Script created by Ferdy. Instagram @ferdyhape
+echo.
+echo.
+echo  ============ CLONE REPOSITORIES FROM GITHUB ============
+echo.
 :start
-echo === CLONE REPOSITORIES OPEN FOLDER IN VSCODE ===
+echo First, copy your folder path(as example "C:\xampp2\htdocs"), then paste in the line below!
 set /p "destinationfolder= -- Folder Storage Address : "
 cd /d %destinationfolder%
 echo ---------------------------
+echo Copy the github link repositories and paste in the line below
 set /p "clonelink= -- Github Link: "
 echo ---------------------------
 git clone "%clonelink%"
 explorer "%destinationfolder%"
 echo Opening Folder...
+echo ---------------------------
 goto:start
 pause
