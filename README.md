@@ -12,5 +12,5 @@ This script was created to simplify daily life in operating a computer
 * as example comment ![image](https://user-images.githubusercontent.com/75787853/174436126-70de0637-0af1-4978-89a8-6e636bf6e9c9.png)
 
 ### 👨‍💼 About 
-instagram: @ferdyhape
-github: ferdyhape
+* instagram: @ferdyhape
+* github: ferdyhape
